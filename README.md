@@ -34,12 +34,12 @@ Power Query
 
 ## Key Features
 
-Supplier evaluation
-Location-wise performance tracking
-Quality and defect analysis
-Lead time monitoring
-Revenue loss detection
-Operational result analysis
+-Supplier evaluation
+-Location-wise performance tracking
+-Quality and defect analysis
+-Lead time monitoring
+-Revenue loss detection
+-Operational result analysis
 
 ## Business Insights
 
